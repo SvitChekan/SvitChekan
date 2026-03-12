@@ -1,5 +1,17 @@
-## Hi there 👋
-Das ist ein Training auf das Repository.  
-Derzeit mache ich eine Weiterbildung in Data Analytics & Engineering an der Deutschen Tech Akademie in Deutschland, mit Kenntnissen in Python, Pandas, Matplotlib, ETL-Prozessen sowie LLM- und KI-Methoden. 
-Beruflich war ich in der Zentrale des Gasförderungsunternehmens „PoltavaGasVydobuvannya“ in Poltava, Ukraine, als Leiterin der Abteilung für Eigentumsrechte und Verwaltung nicht zum Kerngeschäft gehörender Vermögenswerte tätig. 
-Mein Studium der Betriebswirtschaftslehre habe ich an der Staatlichen Technischen Universität für Erdöl und Gas in Ivano-Frankivsk, Ukraine, mit dem Abschluss als Diplom-Wirtschaftsingenieurin abgeschlossen.
+# Hi there!
+
+I am a Data Analytics & Engineering graduate with a strong focus on turning raw data into actionable business insights. My background in business management, combined with technical expertise in data analysis, allows me to approach problems with both a strategic mindset and a technical solution.
+
+Before transitioning into Data Analytics, I spent several years in corporate management at "PoltavaGasVydobuvannya," where I handled asset management and property rights. This experience honed my analytical mindset, attention to detail, and ability to manage complex processes—skills that I now apply to data-driven decision-making.
+
+### Tech Stack
+* **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+* **Data Tools:** Google BigQuery, Tableau
+* **Methodologies:** ETL processes, Data Cleaning, Exploratory Data Analysis (EDA)
+* **Soft Skills:** Strategic planning, Business acumen, Cross-functional communication
+
+### What I'm looking for
+I am currently open to Data Analyst or Data Engineering roles where I can leverage my analytical skills to drive data-driven business results.
+
+### Contact
+Feel free to reach out via email: spchekan@icloud.com
