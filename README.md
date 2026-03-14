@@ -5,8 +5,8 @@ I am a Data Analytics & Engineering graduate with a strong focus on turning raw 
 Before transitioning into Data Analytics, I spent several years in corporate management at "PoltavaGasVydobuvannya," where I handled asset management and property rights. This experience honed my analytical mindset, attention to detail, and ability to manage complex processes—skills that I now apply to data-driven decision-making.
 
 ### Tech Stack
-* **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
-* **Data Tools:** Google BigQuery, Tableau
+* **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn) 
+* **Data Tools:** Google BigQuery, Tableau, SQL
 * **Methodologies:** ETL processes, Data Cleaning, Exploratory Data Analysis (EDA)
 * **Soft Skills:** Strategic planning, Business acumen, Cross-functional communication
 
